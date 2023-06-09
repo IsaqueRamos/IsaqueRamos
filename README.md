@@ -3,7 +3,7 @@
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
 
-Sou desenvolvedor Front-End e atualmente estou mais focado em: 
+  💻 Sou desenvolvedor Front-End e atualmente estou mais focado em: 
 
   
   <img align="center" alt="isaque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
