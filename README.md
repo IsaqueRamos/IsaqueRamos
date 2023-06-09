@@ -1,4 +1,4 @@
-
+<hr>
 <div style="display: inline_block"><br>
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
