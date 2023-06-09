@@ -1,5 +1,5 @@
-<hr>
-<div style="display: inline_block"><br>
+
+<div style="display: inline_block">
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
 
