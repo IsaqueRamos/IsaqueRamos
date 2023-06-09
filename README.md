@@ -9,7 +9,8 @@ Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil!
 
 
 <a href="https://www.youtube.com/@isaqueramossilva" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/IsaqueRamos)
+<a href="https://github.com/IsaqueRamos" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/fernandoleonid/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:isaqueramos04@gmail.com)
 
