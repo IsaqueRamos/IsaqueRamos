@@ -3,12 +3,9 @@
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
   
- 
+ ![dinossauro - jogo](https://github.com/IsaqueRamos/IsaqueRamos/assets/39175497/b7d3f6f9-cd6d-4f69-b67d-deb8b32affc9)
 
   
-  <div align="center">
-    <img src="https://github.com/IsaqueRamos/IsaqueRamos/assets/39175497/b3560104-fb3a-4a3e-9bca-b307882948b9"/>
-  </div>
   
   <hr>
  
