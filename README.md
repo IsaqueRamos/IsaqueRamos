@@ -2,6 +2,9 @@
 <div style="display: inline_block">
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
+  
+ 
+
 
   💻 Sou desenvolvedor Front-End e atualmente estou mais focado em: 
 
