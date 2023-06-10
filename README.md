@@ -1,11 +1,17 @@
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
   
  
 
-
+  
+  <div align="center">
+    <img src="https://github.com/IsaqueRamos/IsaqueRamos/assets/39175497/b3560104-fb3a-4a3e-9bca-b307882948b9"  height="250" width="800"/>
+  </div>
+  
+  <hr>
+ 
   💻 Sou desenvolvedor Front-End e atualmente estou mais focado em: 
 
   
