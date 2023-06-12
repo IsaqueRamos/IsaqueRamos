@@ -22,13 +22,6 @@
   <img align="center" alt="isaque-Node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="isaque-CSS" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
   
-        
-          
-   
-                
-          
-          
-            
           
       
          
