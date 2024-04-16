@@ -1,4 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div style="display: inline_block" align="center">
 
           
@@ -16,19 +16,10 @@
 
   <img align="center" alt="isaque-Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="isaque-spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-
- <i class="devicon-trêsdsmax-plain colori"></i>
-          
-          
-          
-  
-  <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="isaque-bootstrap" heigth="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  
 
-  
-          
-      
          
 <hr>
 
