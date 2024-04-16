@@ -19,9 +19,7 @@
  <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="isaque-bootstrap" heigth="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="center" alt="isaque-node" heigth="30" width="38" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
-          
-          
+ src = " https://devicon-website.vercel.app /api / nodejs / original .svg " > </img>
  
 
          
