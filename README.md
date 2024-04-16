@@ -1,5 +1,7 @@
 
 <div style="display: inline_block" align="center">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 👋 Oi! Eu sou Isaque, seja bem-vindo(a) ao meu perfil! 😀
   
@@ -16,7 +18,9 @@
   <img align="center" alt="isaque-spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 
  
-<img align="center" alt="isaque-spring" height="45" width="55" 
+<i class="devicon-trêsdsmax-plain "></i>
+          
+<img align="center" alt="isaque-node" height="45" width="55" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
           
           
