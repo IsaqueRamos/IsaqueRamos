@@ -1,4 +1,5 @@
 <link rel = "folha de estilo" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" >
+<i class = "devicon- nodejs - plain " ></i>
 <div style="display: inline_block" align="center">
 
           
@@ -18,7 +19,7 @@
   <img align="center" alt="isaque-spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
  <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="isaque-bootstrap" heigth="30" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<i align="center" alt="isaque-bootstrap" heigth="30" width="38"  class = "devicon- nodejs - plain " ></i>
+
  
 
          
