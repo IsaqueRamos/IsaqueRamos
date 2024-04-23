@@ -21,7 +21,7 @@ src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-ori
 <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="isaque-angular" heigth="30" width="30" 
 src ="https://devicon-website.vercel.app/api/angularjs/original.svg"/> 
-<img align="center" alt="isaque-bootstrap" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="center" alt="isaque-bootstrap" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  
 <hr>
 
