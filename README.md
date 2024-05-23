@@ -18,8 +18,10 @@
 <img align="center" alt="isaque-node" heigth="40" width="50" 
 src='https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original-wordmark.svg' />
 <img align="center" alt="isaque-sql" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="isaque-react" heigth="50" width="55" 
+
+<img align="center" alt="isaque-react" height="50" width="55" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
 <img align="center" alt="isaque-bootstrap" heigth="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  
 <hr>
